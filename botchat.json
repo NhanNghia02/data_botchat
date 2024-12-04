@@ -1,0 +1,406 @@
+{
+    "botName": "SyseduBot",
+    "description": "Chatbot hỗ trợ tư vấn tuyển sinh và thông tin trường học.",
+    "questions": [
+        {
+            "question": "Câu hỏi 1: Tôi muốn biết thêm thông tin về dịch vụ số 1?",
+            "answer": "Trả lời 1: Đây là thông tin chi tiết về dịch vụ số 1."
+        },
+        {
+            "question": "Câu hỏi 2: Tôi muốn biết thêm thông tin về dịch vụ số 2?",
+            "answer": "Trả lời 2: Đây là thông tin chi tiết về dịch vụ số 2."
+        },
+        {
+            "question": "Câu hỏi 3: Tôi muốn biết thêm thông tin về dịch vụ số 3?",
+            "answer": "Trả lời 3: Đây là thông tin chi tiết về dịch vụ số 3."
+        },
+        {
+            "question": "Câu hỏi 4: Tôi muốn biết thêm thông tin về dịch vụ số 4?",
+            "answer": "Trả lời 4: Đây là thông tin chi tiết về dịch vụ số 4."
+        },
+        {
+            "question": "Câu hỏi 5: Tôi muốn biết thêm thông tin về dịch vụ số 5?",
+            "answer": "Trả lời 5: Đây là thông tin chi tiết về dịch vụ số 5."
+        },
+        {
+            "question": "Câu hỏi 6: Tôi muốn biết thêm thông tin về dịch vụ số 6?",
+            "answer": "Trả lời 6: Đây là thông tin chi tiết về dịch vụ số 6."
+        },
+        {
+            "question": "Câu hỏi 7: Tôi muốn biết thêm thông tin về dịch vụ số 7?",
+            "answer": "Trả lời 7: Đây là thông tin chi tiết về dịch vụ số 7."
+        },
+        {
+            "question": "Câu hỏi 8: Tôi muốn biết thêm thông tin về dịch vụ số 8?",
+            "answer": "Trả lời 8: Đây là thông tin chi tiết về dịch vụ số 8."
+        },
+        {
+            "question": "Câu hỏi 9: Tôi muốn biết thêm thông tin về dịch vụ số 9?",
+            "answer": "Trả lời 9: Đây là thông tin chi tiết về dịch vụ số 9."
+        },
+        {
+            "question": "Câu hỏi 10: Tôi muốn biết thêm thông tin về dịch vụ số 10?",
+            "answer": "Trả lời 10: Đây là thông tin chi tiết về dịch vụ số 10."
+        },
+        {
+            "question": "Câu hỏi 11: Tôi muốn biết thêm thông tin về dịch vụ số 11?",
+            "answer": "Trả lời 11: Đây là thông tin chi tiết về dịch vụ số 11."
+        },
+        {
+            "question": "Câu hỏi 12: Tôi muốn biết thêm thông tin về dịch vụ số 12?",
+            "answer": "Trả lời 12: Đây là thông tin chi tiết về dịch vụ số 12."
+        },
+        {
+            "question": "Câu hỏi 13: Tôi muốn biết thêm thông tin về dịch vụ số 13?",
+            "answer": "Trả lời 13: Đây là thông tin chi tiết về dịch vụ số 13."
+        },
+        {
+            "question": "Câu hỏi 14: Tôi muốn biết thêm thông tin về dịch vụ số 14?",
+            "answer": "Trả lời 14: Đây là thông tin chi tiết về dịch vụ số 14."
+        },
+        {
+            "question": "Câu hỏi 15: Tôi muốn biết thêm thông tin về dịch vụ số 15?",
+            "answer": "Trả lời 15: Đây là thông tin chi tiết về dịch vụ số 15."
+        },
+        {
+            "question": "Câu hỏi 16: Tôi muốn biết thêm thông tin về dịch vụ số 16?",
+            "answer": "Trả lời 16: Đây là thông tin chi tiết về dịch vụ số 16."
+        },
+        {
+            "question": "Câu hỏi 17: Tôi muốn biết thêm thông tin về dịch vụ số 17?",
+            "answer": "Trả lời 17: Đây là thông tin chi tiết về dịch vụ số 17."
+        },
+        {
+            "question": "Câu hỏi 18: Tôi muốn biết thêm thông tin về dịch vụ số 18?",
+            "answer": "Trả lời 18: Đây là thông tin chi tiết về dịch vụ số 18."
+        },
+        {
+            "question": "Câu hỏi 19: Tôi muốn biết thêm thông tin về dịch vụ số 19?",
+            "answer": "Trả lời 19: Đây là thông tin chi tiết về dịch vụ số 19."
+        },
+        {
+            "question": "Câu hỏi 20: Tôi muốn biết thêm thông tin về dịch vụ số 20?",
+            "answer": "Trả lời 20: Đây là thông tin chi tiết về dịch vụ số 20."
+        },
+        {
+            "question": "Câu hỏi 21: Tôi muốn biết thêm thông tin về dịch vụ số 21?",
+            "answer": "Trả lời 21: Đây là thông tin chi tiết về dịch vụ số 21."
+        },
+        {
+            "question": "Câu hỏi 22: Tôi muốn biết thêm thông tin về dịch vụ số 22?",
+            "answer": "Trả lời 22: Đây là thông tin chi tiết về dịch vụ số 22."
+        },
+        {
+            "question": "Câu hỏi 23: Tôi muốn biết thêm thông tin về dịch vụ số 23?",
+            "answer": "Trả lời 23: Đây là thông tin chi tiết về dịch vụ số 23."
+        },
+        {
+            "question": "Câu hỏi 24: Tôi muốn biết thêm thông tin về dịch vụ số 24?",
+            "answer": "Trả lời 24: Đây là thông tin chi tiết về dịch vụ số 24."
+        },
+        {
+            "question": "Câu hỏi 25: Tôi muốn biết thêm thông tin về dịch vụ số 25?",
+            "answer": "Trả lời 25: Đây là thông tin chi tiết về dịch vụ số 25."
+        },
+        {
+            "question": "Câu hỏi 26: Tôi muốn biết thêm thông tin về dịch vụ số 26?",
+            "answer": "Trả lời 26: Đây là thông tin chi tiết về dịch vụ số 26."
+        },
+        {
+            "question": "Câu hỏi 27: Tôi muốn biết thêm thông tin về dịch vụ số 27?",
+            "answer": "Trả lời 27: Đây là thông tin chi tiết về dịch vụ số 27."
+        },
+        {
+            "question": "Câu hỏi 28: Tôi muốn biết thêm thông tin về dịch vụ số 28?",
+            "answer": "Trả lời 28: Đây là thông tin chi tiết về dịch vụ số 28."
+        },
+        {
+            "question": "Câu hỏi 29: Tôi muốn biết thêm thông tin về dịch vụ số 29?",
+            "answer": "Trả lời 29: Đây là thông tin chi tiết về dịch vụ số 29."
+        },
+        {
+            "question": "Câu hỏi 30: Tôi muốn biết thêm thông tin về dịch vụ số 30?",
+            "answer": "Trả lời 30: Đây là thông tin chi tiết về dịch vụ số 30."
+        },
+        {
+            "question": "Câu hỏi 31: Tôi muốn biết thêm thông tin về dịch vụ số 31?",
+            "answer": "Trả lời 31: Đây là thông tin chi tiết về dịch vụ số 31."
+        },
+        {
+            "question": "Câu hỏi 32: Tôi muốn biết thêm thông tin về dịch vụ số 32?",
+            "answer": "Trả lời 32: Đây là thông tin chi tiết về dịch vụ số 32."
+        },
+        {
+            "question": "Câu hỏi 33: Tôi muốn biết thêm thông tin về dịch vụ số 33?",
+            "answer": "Trả lời 33: Đây là thông tin chi tiết về dịch vụ số 33."
+        },
+        {
+            "question": "Câu hỏi 34: Tôi muốn biết thêm thông tin về dịch vụ số 34?",
+            "answer": "Trả lời 34: Đây là thông tin chi tiết về dịch vụ số 34."
+        },
+        {
+            "question": "Câu hỏi 35: Tôi muốn biết thêm thông tin về dịch vụ số 35?",
+            "answer": "Trả lời 35: Đây là thông tin chi tiết về dịch vụ số 35."
+        },
+        {
+            "question": "Câu hỏi 36: Tôi muốn biết thêm thông tin về dịch vụ số 36?",
+            "answer": "Trả lời 36: Đây là thông tin chi tiết về dịch vụ số 36."
+        },
+        {
+            "question": "Câu hỏi 37: Tôi muốn biết thêm thông tin về dịch vụ số 37?",
+            "answer": "Trả lời 37: Đây là thông tin chi tiết về dịch vụ số 37."
+        },
+        {
+            "question": "Câu hỏi 38: Tôi muốn biết thêm thông tin về dịch vụ số 38?",
+            "answer": "Trả lời 38: Đây là thông tin chi tiết về dịch vụ số 38."
+        },
+        {
+            "question": "Câu hỏi 39: Tôi muốn biết thêm thông tin về dịch vụ số 39?",
+            "answer": "Trả lời 39: Đây là thông tin chi tiết về dịch vụ số 39."
+        },
+        {
+            "question": "Câu hỏi 40: Tôi muốn biết thêm thông tin về dịch vụ số 40?",
+            "answer": "Trả lời 40: Đây là thông tin chi tiết về dịch vụ số 40."
+        },
+        {
+            "question": "Câu hỏi 41: Tôi muốn biết thêm thông tin về dịch vụ số 41?",
+            "answer": "Trả lời 41: Đây là thông tin chi tiết về dịch vụ số 41."
+        },
+        {
+            "question": "Câu hỏi 42: Tôi muốn biết thêm thông tin về dịch vụ số 42?",
+            "answer": "Trả lời 42: Đây là thông tin chi tiết về dịch vụ số 42."
+        },
+        {
+            "question": "Câu hỏi 43: Tôi muốn biết thêm thông tin về dịch vụ số 43?",
+            "answer": "Trả lời 43: Đây là thông tin chi tiết về dịch vụ số 43."
+        },
+        {
+            "question": "Câu hỏi 44: Tôi muốn biết thêm thông tin về dịch vụ số 44?",
+            "answer": "Trả lời 44: Đây là thông tin chi tiết về dịch vụ số 44."
+        },
+        {
+            "question": "Câu hỏi 45: Tôi muốn biết thêm thông tin về dịch vụ số 45?",
+            "answer": "Trả lời 45: Đây là thông tin chi tiết về dịch vụ số 45."
+        },
+        {
+            "question": "Câu hỏi 46: Tôi muốn biết thêm thông tin về dịch vụ số 46?",
+            "answer": "Trả lời 46: Đây là thông tin chi tiết về dịch vụ số 46."
+        },
+        {
+            "question": "Câu hỏi 47: Tôi muốn biết thêm thông tin về dịch vụ số 47?",
+            "answer": "Trả lời 47: Đây là thông tin chi tiết về dịch vụ số 47."
+        },
+        {
+            "question": "Câu hỏi 48: Tôi muốn biết thêm thông tin về dịch vụ số 48?",
+            "answer": "Trả lời 48: Đây là thông tin chi tiết về dịch vụ số 48."
+        },
+        {
+            "question": "Câu hỏi 49: Tôi muốn biết thêm thông tin về dịch vụ số 49?",
+            "answer": "Trả lời 49: Đây là thông tin chi tiết về dịch vụ số 49."
+        },
+        {
+            "question": "Câu hỏi 50: Tôi muốn biết thêm thông tin về dịch vụ số 50?",
+            "answer": "Trả lời 50: Đây là thông tin chi tiết về dịch vụ số 50."
+        },
+        {
+            "question": "Câu hỏi 51: Tôi muốn biết thêm thông tin về dịch vụ số 51?",
+            "answer": "Trả lời 51: Đây là thông tin chi tiết về dịch vụ số 51."
+        },
+        {
+            "question": "Câu hỏi 52: Tôi muốn biết thêm thông tin về dịch vụ số 52?",
+            "answer": "Trả lời 52: Đây là thông tin chi tiết về dịch vụ số 52."
+        },
+        {
+            "question": "Câu hỏi 53: Tôi muốn biết thêm thông tin về dịch vụ số 53?",
+            "answer": "Trả lời 53: Đây là thông tin chi tiết về dịch vụ số 53."
+        },
+        {
+            "question": "Câu hỏi 54: Tôi muốn biết thêm thông tin về dịch vụ số 54?",
+            "answer": "Trả lời 54: Đây là thông tin chi tiết về dịch vụ số 54."
+        },
+        {
+            "question": "Câu hỏi 55: Tôi muốn biết thêm thông tin về dịch vụ số 55?",
+            "answer": "Trả lời 55: Đây là thông tin chi tiết về dịch vụ số 55."
+        },
+        {
+            "question": "Câu hỏi 56: Tôi muốn biết thêm thông tin về dịch vụ số 56?",
+            "answer": "Trả lời 56: Đây là thông tin chi tiết về dịch vụ số 56."
+        },
+        {
+            "question": "Câu hỏi 57: Tôi muốn biết thêm thông tin về dịch vụ số 57?",
+            "answer": "Trả lời 57: Đây là thông tin chi tiết về dịch vụ số 57."
+        },
+        {
+            "question": "Câu hỏi 58: Tôi muốn biết thêm thông tin về dịch vụ số 58?",
+            "answer": "Trả lời 58: Đây là thông tin chi tiết về dịch vụ số 58."
+        },
+        {
+            "question": "Câu hỏi 59: Tôi muốn biết thêm thông tin về dịch vụ số 59?",
+            "answer": "Trả lời 59: Đây là thông tin chi tiết về dịch vụ số 59."
+        },
+        {
+            "question": "Câu hỏi 60: Tôi muốn biết thêm thông tin về dịch vụ số 60?",
+            "answer": "Trả lời 60: Đây là thông tin chi tiết về dịch vụ số 60."
+        },
+        {
+            "question": "Câu hỏi 61: Tôi muốn biết thêm thông tin về dịch vụ số 61?",
+            "answer": "Trả lời 61: Đây là thông tin chi tiết về dịch vụ số 61."
+        },
+        {
+            "question": "Câu hỏi 62: Tôi muốn biết thêm thông tin về dịch vụ số 62?",
+            "answer": "Trả lời 62: Đây là thông tin chi tiết về dịch vụ số 62."
+        },
+        {
+            "question": "Câu hỏi 63: Tôi muốn biết thêm thông tin về dịch vụ số 63?",
+            "answer": "Trả lời 63: Đây là thông tin chi tiết về dịch vụ số 63."
+        },
+        {
+            "question": "Câu hỏi 64: Tôi muốn biết thêm thông tin về dịch vụ số 64?",
+            "answer": "Trả lời 64: Đây là thông tin chi tiết về dịch vụ số 64."
+        },
+        {
+            "question": "Câu hỏi 65: Tôi muốn biết thêm thông tin về dịch vụ số 65?",
+            "answer": "Trả lời 65: Đây là thông tin chi tiết về dịch vụ số 65."
+        },
+        {
+            "question": "Câu hỏi 66: Tôi muốn biết thêm thông tin về dịch vụ số 66?",
+            "answer": "Trả lời 66: Đây là thông tin chi tiết về dịch vụ số 66."
+        },
+        {
+            "question": "Câu hỏi 67: Tôi muốn biết thêm thông tin về dịch vụ số 67?",
+            "answer": "Trả lời 67: Đây là thông tin chi tiết về dịch vụ số 67."
+        },
+        {
+            "question": "Câu hỏi 68: Tôi muốn biết thêm thông tin về dịch vụ số 68?",
+            "answer": "Trả lời 68: Đây là thông tin chi tiết về dịch vụ số 68."
+        },
+        {
+            "question": "Câu hỏi 69: Tôi muốn biết thêm thông tin về dịch vụ số 69?",
+            "answer": "Trả lời 69: Đây là thông tin chi tiết về dịch vụ số 69."
+        },
+        {
+            "question": "Câu hỏi 70: Tôi muốn biết thêm thông tin về dịch vụ số 70?",
+            "answer": "Trả lời 70: Đây là thông tin chi tiết về dịch vụ số 70."
+        },
+        {
+            "question": "Câu hỏi 71: Tôi muốn biết thêm thông tin về dịch vụ số 71?",
+            "answer": "Trả lời 71: Đây là thông tin chi tiết về dịch vụ số 71."
+        },
+        {
+            "question": "Câu hỏi 72: Tôi muốn biết thêm thông tin về dịch vụ số 72?",
+            "answer": "Trả lời 72: Đây là thông tin chi tiết về dịch vụ số 72."
+        },
+        {
+            "question": "Câu hỏi 73: Tôi muốn biết thêm thông tin về dịch vụ số 73?",
+            "answer": "Trả lời 73: Đây là thông tin chi tiết về dịch vụ số 73."
+        },
+        {
+            "question": "Câu hỏi 74: Tôi muốn biết thêm thông tin về dịch vụ số 74?",
+            "answer": "Trả lời 74: Đây là thông tin chi tiết về dịch vụ số 74."
+        },
+        {
+            "question": "Câu hỏi 75: Tôi muốn biết thêm thông tin về dịch vụ số 75?",
+            "answer": "Trả lời 75: Đây là thông tin chi tiết về dịch vụ số 75."
+        },
+        {
+            "question": "Câu hỏi 76: Tôi muốn biết thêm thông tin về dịch vụ số 76?",
+            "answer": "Trả lời 76: Đây là thông tin chi tiết về dịch vụ số 76."
+        },
+        {
+            "question": "Câu hỏi 77: Tôi muốn biết thêm thông tin về dịch vụ số 77?",
+            "answer": "Trả lời 77: Đây là thông tin chi tiết về dịch vụ số 77."
+        },
+        {
+            "question": "Câu hỏi 78: Tôi muốn biết thêm thông tin về dịch vụ số 78?",
+            "answer": "Trả lời 78: Đây là thông tin chi tiết về dịch vụ số 78."
+        },
+        {
+            "question": "Câu hỏi 79: Tôi muốn biết thêm thông tin về dịch vụ số 79?",
+            "answer": "Trả lời 79: Đây là thông tin chi tiết về dịch vụ số 79."
+        },
+        {
+            "question": "Câu hỏi 80: Tôi muốn biết thêm thông tin về dịch vụ số 80?",
+            "answer": "Trả lời 80: Đây là thông tin chi tiết về dịch vụ số 80."
+        },
+        {
+            "question": "Câu hỏi 81: Tôi muốn biết thêm thông tin về dịch vụ số 81?",
+            "answer": "Trả lời 81: Đây là thông tin chi tiết về dịch vụ số 81."
+        },
+        {
+            "question": "Câu hỏi 82: Tôi muốn biết thêm thông tin về dịch vụ số 82?",
+            "answer": "Trả lời 82: Đây là thông tin chi tiết về dịch vụ số 82."
+        },
+        {
+            "question": "Câu hỏi 83: Tôi muốn biết thêm thông tin về dịch vụ số 83?",
+            "answer": "Trả lời 83: Đây là thông tin chi tiết về dịch vụ số 83."
+        },
+        {
+            "question": "Câu hỏi 84: Tôi muốn biết thêm thông tin về dịch vụ số 84?",
+            "answer": "Trả lời 84: Đây là thông tin chi tiết về dịch vụ số 84."
+        },
+        {
+            "question": "Câu hỏi 85: Tôi muốn biết thêm thông tin về dịch vụ số 85?",
+            "answer": "Trả lời 85: Đây là thông tin chi tiết về dịch vụ số 85."
+        },
+        {
+            "question": "Câu hỏi 86: Tôi muốn biết thêm thông tin về dịch vụ số 86?",
+            "answer": "Trả lời 86: Đây là thông tin chi tiết về dịch vụ số 86."
+        },
+        {
+            "question": "Câu hỏi 87: Tôi muốn biết thêm thông tin về dịch vụ số 87?",
+            "answer": "Trả lời 87: Đây là thông tin chi tiết về dịch vụ số 87."
+        },
+        {
+            "question": "Câu hỏi 88: Tôi muốn biết thêm thông tin về dịch vụ số 88?",
+            "answer": "Trả lời 88: Đây là thông tin chi tiết về dịch vụ số 88."
+        },
+        {
+            "question": "Câu hỏi 89: Tôi muốn biết thêm thông tin về dịch vụ số 89?",
+            "answer": "Trả lời 89: Đây là thông tin chi tiết về dịch vụ số 89."
+        },
+        {
+            "question": "Câu hỏi 90: Tôi muốn biết thêm thông tin về dịch vụ số 90?",
+            "answer": "Trả lời 90: Đây là thông tin chi tiết về dịch vụ số 90."
+        },
+        {
+            "question": "Câu hỏi 91: Tôi muốn biết thêm thông tin về dịch vụ số 91?",
+            "answer": "Trả lời 91: Đây là thông tin chi tiết về dịch vụ số 91."
+        },
+        {
+            "question": "Câu hỏi 92: Tôi muốn biết thêm thông tin về dịch vụ số 92?",
+            "answer": "Trả lời 92: Đây là thông tin chi tiết về dịch vụ số 92."
+        },
+        {
+            "question": "Câu hỏi 93: Tôi muốn biết thêm thông tin về dịch vụ số 93?",
+            "answer": "Trả lời 93: Đây là thông tin chi tiết về dịch vụ số 93."
+        },
+        {
+            "question": "Câu hỏi 94: Tôi muốn biết thêm thông tin về dịch vụ số 94?",
+            "answer": "Trả lời 94: Đây là thông tin chi tiết về dịch vụ số 94."
+        },
+        {
+            "question": "Câu hỏi 95: Tôi muốn biết thêm thông tin về dịch vụ số 95?",
+            "answer": "Trả lời 95: Đây là thông tin chi tiết về dịch vụ số 95."
+        },
+        {
+            "question": "Câu hỏi 96: Tôi muốn biết thêm thông tin về dịch vụ số 96?",
+            "answer": "Trả lời 96: Đây là thông tin chi tiết về dịch vụ số 96."
+        },
+        {
+            "question": "Câu hỏi 97: Tôi muốn biết thêm thông tin về dịch vụ số 97?",
+            "answer": "Trả lời 97: Đây là thông tin chi tiết về dịch vụ số 97."
+        },
+        {
+            "question": "Câu hỏi 98: Tôi muốn biết thêm thông tin về dịch vụ số 98?",
+            "answer": "Trả lời 98: Đây là thông tin chi tiết về dịch vụ số 98."
+        },
+        {
+            "question": "Câu hỏi 99: Tôi muốn biết thêm thông tin về dịch vụ số 99?",
+            "answer": "Trả lời 99: Đây là thông tin chi tiết về dịch vụ số 99."
+        },
+        {
+            "question": "Câu hỏi 100: Tôi muốn biết thêm thông tin về dịch vụ số 100?",
+            "answer": "Trả lời 100: Đây là thông tin chi tiết về dịch vụ số 100."
+        }
+    ]
+}
